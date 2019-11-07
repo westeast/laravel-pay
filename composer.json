@@ -1,5 +1,5 @@
 {
-    "name": "yansongda/laravel-pay",
+    "name": "westeast/laravel-pay",
     "description": "专注 Alipay 和 WeChat 的 laravel 支付扩展包",
     "keywords": ["alipay", "wechat", "pay", "laravel", "package"],
     "support": {
@@ -14,7 +14,7 @@
     ],
     "require": {
         "illuminate/support": "^5.1 || ^6.0",
-        "yansongda/pay": "^2.0"
+        "westeast/pay": "^2.0"
     },
     "autoload": {
         "psr-4": {
